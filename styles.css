@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #333;
+  color: white;
+  padding: 1em;
+  margin: 0;
+}
+
+p {
+  margin: 1em;
+}
